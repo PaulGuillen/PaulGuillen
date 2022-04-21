@@ -16,7 +16,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
  [LinkedIn](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/)
 &nbsp;&nbsp;
 
-[![website]<img align="left" alt="Android" width="42px" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png" style="padding-right:2px;"/>)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
@@ -29,7 +29,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 <img align="left" alt="HTML" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="PgAdmin" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
 <br />
