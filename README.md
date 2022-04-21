@@ -18,11 +18,15 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
+<img align="left" alt="Android" width="26px" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-1.png" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="26px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="PgAdmin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" style="padding-right:10px;"/>
+
+
 
 <br />
 <br />
