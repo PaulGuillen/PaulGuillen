@@ -19,7 +19,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 ### Languages and Tools:
 
 <img align="left" alt="Android" width="26px" src="https://ih1.redbubble.net/image.348623927.1363/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="26px" src="https://img2.freepng.es/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
