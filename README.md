@@ -12,12 +12,20 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 ### Connect with me:
 
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
- [LinkedIn](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -31,22 +39,5 @@ I'm a systems engineer whose focus is in the are of software development, I have
 <img align="left" alt="PgAdmin" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-
 <br />
 <br />
-
-
-<!--
-**PaulGuillen/PaulGuillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
