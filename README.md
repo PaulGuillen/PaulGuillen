@@ -38,4 +38,4 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 
 ---
-_If anyone has a question about these projects that u can see on my repository, send me a message to ask :)_
+_If anyone has a question about these projects that u can see on my repository, feel free to ask :)_
