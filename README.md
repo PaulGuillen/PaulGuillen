@@ -7,7 +7,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 - 🔭 Degree in systems engineer
 - 🌱 Responsible with schedules
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to connect an app
+- 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to management an app
 - ⚡ Fun fact: I love listen to music, it makes me feel less stressed
 
 ### Connect with me:
@@ -21,6 +21,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 <img align="left" alt="Android" width="42px" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png" style="padding-right:2px;"/>
 <img align="left" alt="Java" width="42px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"  style="padding-right:10px;"/>
 <img align="left" alt="Kotlin" width="42px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="42px" src="https://w7.pngwing.com/pngs/620/609/png-transparent-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-angle-rectangle-triangle.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
