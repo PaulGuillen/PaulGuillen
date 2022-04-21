@@ -14,11 +14,11 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/PaulGuillenAcu1)
+[![website](./img/twitter-dark.svg)](https://twitter.com/PaulGuillenAcu1)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/)
 &nbsp;&nbsp;
 
 
