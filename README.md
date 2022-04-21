@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a systems engineer whose focus is in the are of software development, I have a year of experience carrying out the projects that you can see in my repository, some languages that I have used :
+- 
+
 <!--
 **PaulGuillen/PaulGuillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
