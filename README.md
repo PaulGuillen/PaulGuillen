@@ -18,7 +18,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 ### Languages and Tools:
 
-<img align="left" alt="Android" width="26px" src="https://ih1.redbubble.net/image.348623927.1363/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" style="padding-right:10px;"/>
+<img align="left" alt="Android" width="26px"   height: "50px" src="https://w7.pngwing.com/pngs/664/941/png-transparent-android-logo-icon-green-android-logo-free-logo-design-template-hand-logo.png" style="padding-right:5px;"/>
 <img align="left" alt="Java" width="26px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
