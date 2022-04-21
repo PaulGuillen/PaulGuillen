@@ -19,7 +19,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 ### Languages and Tools:
 
 <img align="left" alt="Android" width="26px" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png" style="padding-right:2px;"/>
-<img align="left" alt="Java" width="42px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+<img align="left" alt="Java" width="42px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"  style="padding-right:10px;"/>
 <img align="left" alt="Kotlin" width="26px" src="https://miro.medium.com/max/440/1*0WiowS1xHwISJnLX3Hs05g.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
