@@ -12,7 +12,6 @@ I'm a systems engineer whose focus is in the are of software development, I have
 
 ### Connect with me:
 
-
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/PaulGuillenAcu1#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PaulGuillenAcu1#gh-dark-mode-only)
