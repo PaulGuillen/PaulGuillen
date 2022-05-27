@@ -1,6 +1,6 @@
 # Hi there, I'm Paul 👋 
 
-I'm a systems engineer whose focus is in the are of software development, I have a year of experience carrying out the projects that you can see in my repository.
+I'm a systems engineer whose focus is in the are of software development, I have a year of experience carrying out the projects that you can see in my repository
 
 ## Some things about me!!
 
