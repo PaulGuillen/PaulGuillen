@@ -8,7 +8,7 @@ I'm a systems engineer whose focus is in the are of software development, I have
 - 🌱 Responsible with schedules.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to management an app.
-- ⚡ I love listen to music, it makes me feel less stressed
+- ⚡ I love listen to music, it makes me feel less stressed.
 
 ### Connect with me:
 
