@@ -21,7 +21,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 &nbsp;&nbsp;
 
 ### Some videos abouts my projects:
-__
+_It is a video that shows you some apps whose developing was made by me._
 
 https://user-images.githubusercontent.com/43099030/177841312-1ce9c420-afa0-4e5e-969b-9483a1f7f6f7.mp4
 
