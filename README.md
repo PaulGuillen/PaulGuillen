@@ -20,6 +20,12 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+### Some videos abouts my projects:
+__
+
+https://user-images.githubusercontent.com/43099030/177841312-1ce9c420-afa0-4e5e-969b-9483a1f7f6f7.mp4
+
+
 
 ### Languages and Tools:
 
