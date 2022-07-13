@@ -39,7 +39,7 @@ _There are more example in my github repository._
 <img align="left" alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="PgAdmin" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="42px" src="https://image.emojisky.com/232/897232-middle.png" style="padding-right:10px;" />
 <br />
 <br />
 
