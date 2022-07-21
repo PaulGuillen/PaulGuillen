@@ -4,7 +4,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 
 ## Some things about me!!
 
-- 🔭 Degree in systems engineer.
+- 🔭 Degree in systems engineer
 - 🌱 Responsible with schedules
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to management an app.
