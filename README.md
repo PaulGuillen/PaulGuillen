@@ -26,7 +26,11 @@ _It is an image that shows you some apps whose developing was made by me._
 
 _There are more example in my github repository._
 
-![1](https://user-images.githubusercontent.com/43099030/178117276-f46aca6f-be03-4f28-964c-57a923fe70f4.png)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/43099030/180676284-84b04858-5ab7-4854-808d-4630e1936b6d.png"/>
+
+</p>
+
 
 ### Languages and Tools:
 
