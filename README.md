@@ -22,7 +22,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 
 ### Some ideas:
 
-_This apps are in PlayStore_
+_These apps are in PlayStore_
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/43099030/180676284-84b04858-5ab7-4854-808d-4630e1936b6d.png"/>
