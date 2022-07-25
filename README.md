@@ -10,7 +10,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 - 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to management an app.
 - ⚡ I love listen to music, it makes me feel less stressed.
 
-### Connect with me:
+## Connect with me:
 
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/PaulGuillenAcu1#gh-light-mode-only)
@@ -20,9 +20,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
----
-
-### Some ideas:
+## Some ideas:
 
 _These apps are in PlayStore_
 
@@ -33,9 +31,8 @@ _These apps are in PlayStore_
 
 </p>
 
----
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Android" width="42px" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png" style="padding-right:2px;"/>
 <img align="left" alt="Java" width="42px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"  style="padding-right:10px;"/>
