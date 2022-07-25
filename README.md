@@ -20,7 +20,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-## Some ideas:
+## Some projects:
 
 _These apps are in PlayStore_
 
