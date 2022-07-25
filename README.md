@@ -26,7 +26,7 @@ _These apps are in PlayStore_
 
 <p align="center">
  
- [<img src="https://user-images.githubusercontent.com/43099030/180677508-b45871c9-4f1a-4e4c-99e6-0e99b4ee95f5.png" align="left"/>](https://play.google.com/store/apps/details?id=devpaul.business.safetylima/)
+ [<img src="https://user-images.githubusercontent.com/43099030/180677508-b45871c9-4f1a-4e4c-99e6-0e99b4ee95f5.png" align="right"/>](https://play.google.com/store/apps/details?id=devpaul.business.safetylima/)
  
  [<img src="https://user-images.githubusercontent.com/43099030/180677518-129024ea-f37c-451a-8de6-09b7a84ec7a3.png" />](https://play.google.com/store/apps/details?id=devpaul.business.piensarapido/)
 </p>
