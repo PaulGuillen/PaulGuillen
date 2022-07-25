@@ -22,7 +22,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 
 ## Some projects:
 
-_These apps are in PlayStore_
+_These apps are in PlayStore._
 
 <p align="center">
  
