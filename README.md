@@ -1,6 +1,6 @@
 # Hi there, I'm Paul 👋 
 
-I'm a systems engineer whose focus is in the area of software development, I have two years of experience carrying out these projects that you can see in my repository, in additions to this, i used to code at university in java and java web was hard when i realized that i had to use frameworks(spring).
+I'm a systems engineer whose focus is in the area of software development, I have two years of experience carrying out these projects that you can see in my repository, in additions to this, i used to code at university in java and java web was hard when i realized that i had to use frameworks(spring, hibernate).
 
 ## Some things about me!!
 
