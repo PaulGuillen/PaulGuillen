@@ -8,7 +8,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 - 🐶 I have two dogs called Rocky and Abby that i love them
 - 🔭 Degree in systems engineer
 - 🌱 Responsible with schedules
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about responsive web, and do an admin panel to management an app.
 - ⚡ I love listen to music, it makes me feel less stressed.
 
