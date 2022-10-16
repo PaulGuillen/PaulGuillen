@@ -4,7 +4,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 
 ## Some things about me!!
 
-- 🌳 Starting work at NTT DATA PERU.
+- 🌳 Working at NTT DATA PERU.
 - 🐶 I have two dogs called Rocky and Abby that i love them.
 - 🔭 Degree in systems engineer.
 - 🌱 Responsible with schedules.
