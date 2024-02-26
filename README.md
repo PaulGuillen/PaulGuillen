@@ -1,6 +1,6 @@
 # Hi there, I'm Paul 👋 
 
-I'm a systems engineer whose focus is in the area of software development, I have two years of experience carrying out these projects that you can see in my repository, in additions to this, i used to code at university in java and java web was hard when i realized that i had to use frameworks(spring, hibernate, javaserver faces).
+I'm a systems engineer whose focus is in the area of software development, I have two years of experience carrying out these projects that you can see in my repository, in additions to this, i used to code at university in java and java web was hard when i realized that i had to use frameworks(Angular, React, Ionic, Android Architecture Components, Android SDK).
 
 ## Some things about me!!
 
@@ -8,7 +8,7 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 - 🔭 Degree in systems engineer.
 - 🌱 Responsible with schedules.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 goals: Learn more about responsive web, and do an admin panel to management an app.
+- 🥅 2024 goals: Learn more about machine learning things, and categorize myself at work as a full stack developer senior.
 - ⚡ I love listen to music, it makes me feel less stressed.
 
 ## Connect with me:
