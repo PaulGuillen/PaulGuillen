@@ -4,11 +4,11 @@ I'm a systems engineer whose focus is in the area of software development, I hav
 
 ## Some things about me!!
 
-- 🌳 Working at NTT DATA PERU.
+- 🌳 Working at Indra Company as Android Senior Dev.
 - 🔭 Degree in systems engineer.
 - 🌱 Responsible with schedules.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 goals: Learn more about machine learning things, and categorize myself at work as a full stack developer senior.
+- 🥅 2025 goals: Learn more about machine learning things, and categorize myself at work as a full stack developer senior.
 - ⚡ I love listen to music, it makes me feel less stressed.
 
 ## Connect with me:
