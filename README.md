@@ -1,6 +1,6 @@
 # Hi there, I'm Paul 👋 
 
-I'm a full stack developer with a focus on native Android development using Android Studio. Currently, I'm working at **Indra Company** as a Senior App Developer. I have a passion for building scalable and efficient solutions that enhance user experiences.
+I'm a full stack developer with a focus on native Android development. Currently, I'm working at **Indra Company** as a Senior App Developer. I have a passion for building scalable and efficient solutions that enhance user experiences.
 
 ## Some things about me!!
 
