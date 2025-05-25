@@ -19,19 +19,6 @@ I'm a full stack developer with a focus on native Android development. Currently
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-## Some projects:
-
-_These apps are in PlayStore._
-
-<p align="center">
- 
- <img src="https://user-images.githubusercontent.com/43099030/180680630-bcfb0bdb-1147-4137-bd28-4718a852f0e3.png"/>
- <img src="https://user-images.githubusercontent.com/43099030/180680607-8de95a68-f7fc-49c1-a92b-0a69557209bb.png"/>
-
-</p>
-
 
 ## Languages and Tools:
 <table><tr><td valign="top" width="33%">
