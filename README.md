@@ -4,7 +4,6 @@ I'm a full stack developer with a focus on native Android development. Currently
 
 ## Some things about me!!
 
-- 🌳 Working at **Indra Company** as an Android Senior Developer.
 - 🎓 Degree in Systems Engineering.
 - 🕒 Responsible with schedules.
 - 🤝 I'm looking to collaborate with other content creators.
