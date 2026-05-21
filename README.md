@@ -7,7 +7,7 @@ I'm a full stack developer with a focus on native Android development. Currently
 - 🎓 Degree in Systems Engineering.
 - 🕒 Responsible with schedules.
 - 🤝 I'm looking to collaborate with other content creators.
-- 📚 2025 goals: Learn more about machine learning, and establish myself as a senior full stack developer.
+- 📚 2026 goals: Learn more about machine learning, and establish myself as a senior full stack developer.
 - 🎶 I love listening to music; it helps me feel less stressed.
 
 ## Connect with me  
