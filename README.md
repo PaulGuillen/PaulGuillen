@@ -27,7 +27,15 @@ _These apps are in PlayStore._
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/43099030/180680630-bcfb0bdb-1147-4137-bd28-4718a852f0e3.png"/>
-<img width="260" height="260" alt="logo_info_peru" src="https://github.com/user-attachments/assets/7371eefd-f7de-4c7c-8144-31130c9280b2" />
+
+<a href="https://play.google.com/store/apps/details?id=com.devpaul.infographic">
+    <img
+        width="260"
+        height="260"
+        alt="logo_info_peru"
+        src="https://github.com/user-attachments/assets/7371eefd-f7de-4c7c-8144-31130c9280b2"
+    />
+</a>
 
 </p>
 
