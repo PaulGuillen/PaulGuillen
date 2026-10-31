@@ -61,7 +61,7 @@ I have experience developing mobile solutions for **banking, telecommunications,
 
 Create professional resumes with modern templates and export them to PDF.
 
-<a href="https://play.google.com/store/search?q=CvFree&c=apps">
+<a href="https://play.google.com/store/apps/details?id=com.devpaul.cvfree">
   <img
     src="https://img.shields.io/badge/Google_Play-View_App-01875F?style=for-the-badge&logo=googleplay&logoColor=white"
     alt="Find CV Free on Google Play"
@@ -88,7 +88,7 @@ Create professional resumes with modern templates and export them to PDF.
 Practice arithmetic skills with interactive mathematics challenges.
 
 
-<a href="https://play.google.com/store/search?q=Math%20Game&c=apps">
+<a href="https://play.google.com/store/apps/details?id=devpaul.business.piensarapido">
   <img
     src="https://img.shields.io/badge/Google_Play-View_App-01875F?style=for-the-badge&logo=googleplay&logoColor=white"
     alt="Find Math Game on Google Play"
