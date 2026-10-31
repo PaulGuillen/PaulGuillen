@@ -49,7 +49,7 @@ I have experience developing mobile solutions for **banking, telecommunications,
 
 <strong>Professional Resume Builder</strong>
 
-Create professional resumes with modern templates and export them to PDF.
+Professional resumes with modern templates and export them to PDF.
 
 <a href="https://play.google.com/store/apps/details?id=com.devpaul.cvfree">
   <img
