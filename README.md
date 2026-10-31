@@ -144,7 +144,7 @@ An Android application published on Google Play.
 </a>
 
 <a href="https://www.typescriptlang.org/">
-<img src="https://profilinator.rishav.dev/skills-assets/typescriptlang-icon.svg" alt="TypeScript" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50"/>
 </a>
 
 <a href="https://angular.io/">
