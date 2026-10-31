@@ -7,16 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Java+%7C+Clean+Architecture;MVVM+%7C+MVI+%7C+Mobile+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://github.com/PaulGuillen">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/paul-guillen-acu%C3%B1a-61ab9319a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
 
 ---
